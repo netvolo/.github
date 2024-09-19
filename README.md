@@ -63,9 +63,9 @@ We leverage the best tools and technologies to deliver top-quality results:
 ## 🧑‍💼 Meet Our Team:
 At Netvolo, we believe in teamwork, innovation, and excellence. Our talented team is the heart of our success.
   
-- **Soreze Kenzo** – CEO, Lead Strategist ![Profile]([https://github.com/yourusername.png](https://avatars.githubusercontent.com/u/135658209?s=400&u=7afad3f954c5c3e39dfb61dad5f277d38f5abc60&v=4))
-- **Lescure Maxime** – CTO, Head of Development ![Profile](https://github.com/username2.png)
-- **Rudel Thibault** – Senior Full-Stack Developer ![Profile](https://github.com/username3.png)
+- **Soreze Kenzo** – CEO, Lead Strategist 
+- **Lescure Maxime** – CTO, Head of Development
+- **Rudel Thibault** – Senior Full-Stack Developer
 
 
 ## 🌍 Global Impact:
@@ -85,7 +85,7 @@ We work with clients from all over the world, delivering digital solutions that 
 ## 📫 Let's Work Together!
 We would love to hear from you! Whether you need help with web development, digital marketing, or software solutions, Netvolo has you covered.
 - **Website**: [netvolo.com](https://www.netvolo.com)
-- **Email**: contact@netvolo.com
+- **Email**: projet@netvolo.com
 - **LinkedIn**: [Netvolo on LinkedIn](https://www.linkedin.com/company/netvolo)
 - **Twitter**: [Netvolo on Twitter](https://www.twitter.com/netvolo)
 
