@@ -45,7 +45,7 @@ We leverage the best tools and technologies to deliver top-quality results:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🏆 Featured Projects:
-### 1. **E-commerce Platform **
+### 1. **E-commerce Platform**
   - Built a full-stack e-commerce platform with **React**, **Node.js**, and **PostgreSQL**.
   - Integrated real-time inventory management and payment gateways like Stripe and PayPal.
   - Enhanced SEO and user experience, resulting in a 35% increase in online sales.
@@ -63,10 +63,11 @@ We leverage the best tools and technologies to deliver top-quality results:
 ## 🧑‍💼 Meet Our Team:
 At Netvolo, we believe in teamwork, innovation, and excellence. Our talented team is the heart of our success.
   
-- **Soreze Kenzo** – CEO, Lead Strategist 
-- **Lescure Maxime** – CTO, Head of Development
+- **Soreze Kenzo** – CEO Netvolo Group, Lead Strategist 
+- **Lescure Maxime** – CTO Netvolo Group, Head of Development - Lead Strategist 
+- **Saragosa Aurélien** -  Junior Developer - Senior Marketting Strategist
 - **Rudel Thibault** – Senior Full-Stack Developer
-
+- **Jimmy Debeaupuits** - CEO Netvolo GrandEst Franchise - Lead Strategist 
 
 ## 🌍 Global Impact:
 We work with clients from all over the world, delivering digital solutions that resonate with diverse markets and cultures. Our portfolio includes clients from industries such as:
