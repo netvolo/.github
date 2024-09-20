@@ -65,8 +65,8 @@ At Netvolo, we believe in teamwork, innovation, and excellence. Our talented tea
   
 - **Soreze Kenzo** – CEO Netvolo Group, Lead Strategist 
 - **Lescure Maxime** – CTO Netvolo Group, Head of Development - Lead Strategist 
-- **Saragosa Aurélien** - Head of Development
-- **Rudel Thibault** – Head of Development - Senior Full-Stack Developer
+- **Saragosa Aurélien** -  Junior Developer - Senior Marketting Strategist
+- **Rudel Thibault** – Senior Full-Stack Developer
 - **Jimmy Debeaupuits** - CEO Netvolo GrandEst Franchise - Lead Strategist 
 
 ## 🌍 Global Impact:
