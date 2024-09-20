@@ -63,11 +63,11 @@ We leverage the best tools and technologies to deliver top-quality results:
 ## 🧑‍💼 Meet Our Team:
 At Netvolo, we believe in teamwork, innovation, and excellence. Our talented team is the heart of our success.
   
-- **Soreze Kenzo** – CEO, Lead Strategist 
-- **Lescure Maxime** – CTO, Head of Development
+- **Soreze Kenzo** – CEO Netvolo Group, Lead Strategist 
+- **Lescure Maxime** – CTO Netvolo Group, Head of Development - Lead Strategist 
 - **Saragosa Aurélien** - Head of Development
 - **Rudel Thibault** – Head of Development - Senior Full-Stack Developer
-- **Jimmy Debeaupuits** - CEO of a Netvolo GrandEst Franchise
+- **Jimmy Debeaupuits** - CEO Netvolo GrandEst Franchise - Lead Strategist 
 
 ## 🌍 Global Impact:
 We work with clients from all over the world, delivering digital solutions that resonate with diverse markets and cultures. Our portfolio includes clients from industries such as:
